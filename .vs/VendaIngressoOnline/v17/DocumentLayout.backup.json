@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sistemas\\VendaIngressoOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|d:\\sistemas\\vendaingressoonline\\vendaingressoonline.web\\vendaingressoonline.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{276E154D-F553-49D0-BB7E-BA4078CC38CD}|VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj|solutionrelative:vendaingressoonline.web\\vendaingressoonline.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T19:01:11.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T19:01:04.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T18:59:55.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T18:59:48.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T18:59:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T18:59:03.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:58:46.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:58:16.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T18:58:08.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendaIngressoOnline.Web",
+              "DocumentMoniker": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj",
+              "RelativeDocumentMoniker": "VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj",
+              "ToolTip": "D:\\Sistemas\\VendaIngressoOnline\\VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj",
+              "RelativeToolTip": "VendaIngressoOnline.Web\\VendaIngressoOnline.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T18:58:01.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

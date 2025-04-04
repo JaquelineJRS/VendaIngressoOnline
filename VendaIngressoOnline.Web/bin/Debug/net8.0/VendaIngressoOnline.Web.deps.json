@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VendaIngressoOnline.Web/1.0.0": {
+        "runtime": {
+          "VendaIngressoOnline.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendaIngressoOnline.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
